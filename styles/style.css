@@ -348,6 +348,7 @@ footer {
   }
   .sec-img {
     width: 45%;
+    height: intrinsic;
   }
   .row-verse {
     flex-direction: row-reverse;
